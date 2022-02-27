@@ -1,4 +1,4 @@
-wii-u-gc-adapter
+wii-u-gc-adapter MiSTER
 ================
 Just compiled ToadKing's wii-u-gc-adapter to work on the MiSTER and included a simple startup script.
 
